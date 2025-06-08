@@ -49,7 +49,7 @@ The project is organized within the `ai_agents_with_question-answering` folder, 
 - **Recall**: 0.84
 - **F1 Score**: 0.81
 
-![Metrics Plot](ai_agents_with_question-answering/accuracy_bar_plot.png)
+![Metrics Plot](ai_agents_with_question-answering/performance_metrics.png)
 
 ### Performance Analysis
 - **True Performance**: Estimated at ~94% accuracy after correcting for evaluation and refinement issues.
