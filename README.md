@@ -7,7 +7,7 @@ This repository hosts an AI-powered question-answering (QA) agent built with Lan
 ## Key Features
 
 - **Dataset**: 200 questions with true answers and contexts, covering factual, edge-case, and reasoning types.
-- **Model**: LangChain pipeline with deepset/roberta-base-squad2 for efficient QA.
+- **Model**: LangChain pipeline with deepset/roberta-base-squad2 for efficient QA. 
 - **Refinement**: Improves responses for complex or low-confidence questions. 
 - **UI**: Interactive Streamlit interface with ngrok for public access.
 - **Evaluation**: Metrics include accuracy, precision, recall, and F1-score.  
