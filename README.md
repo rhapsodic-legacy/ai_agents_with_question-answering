@@ -15,7 +15,7 @@ This repository hosts an AI-powered question-answering (QA) agent built with Lan
   
 The workflow involves loading the dataset, generating initial responses, refining complex or low-confidence answers, evaluating with fuzzy matching, and providing an interactive UI with visualizations.  
  
-## Repository Contents 
+## Repository Contents  
 
 The project is organized within the `ai_agents_with_question-answering` folder, containing:
 
