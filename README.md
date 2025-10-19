@@ -2,7 +2,7 @@
 
 ## Overview 
  
-This repository hosts an AI-powered question-answering (QA) agent built with LangChain and the deepset/roberta-base-squad2 model from Hugging Face. Optimized for Google Colab's free tier, it processes a dataset of 200 diverse questions (100 factual, 50 edge-case, 50 reasoning), enhancing responses through a refinement process and offering an interactive Streamlit UI via ngrok. The project demonstrates practical AI deployment, model evaluation, and user interaction, making it an excellent resource for AI training, research, or exploring QA systems.
+This repository hosts an AI-powered question-answering (QA) agent built with LangChain and the deepset/roberta-base-squad2 model from Hugging Face. Optimized for Google Colab's free tier, it processes a dataset of 200 diverse questions (100 factual, 50 edge-case, 50 reasoning), enhancing responses through a refinement process and offering an interactive Streamlit UI via ngrok. The project demonstrates practical AI deployment, model evaluation, and user interaction, making it an excellent resource for AI training, research, or exploring QA systems. 
 
 ## Key Features
      
